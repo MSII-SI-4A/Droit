@@ -3,7 +3,7 @@
 		- Techniques
 		- Juridiques
 			- L'employeur est responssable de la plus part des faits des salariés (CC 1184)
-			- Loie Hadopi (Téléchargement illégaux)
+			- Loi Hadopi (Téléchargement illégaux)
 			- Obligation de conservation des Logs de connexion
 		
 Cela se concrétise par la mise en place d'outils de tracabilité de l'activité des salariés.
